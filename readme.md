@@ -1,0 +1,1 @@
+Experimental music instrument that allows you to whistle which tone then will be played on a synthesizer that is connected using bluetooth ble.
